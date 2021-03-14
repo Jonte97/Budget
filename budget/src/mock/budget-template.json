@@ -1,0 +1,50 @@
+{
+  "name": "Template budget",
+  "budgetTotalAmount": 20000,
+  "budgetCurrentOutGoing": 0,
+  "budgetOverflow": 0,
+  "categories": [
+    {
+      "id": 1,
+      "name": "Housing",
+      "outgoings": [
+        {
+          "id": 1,
+          "name": "Rent",
+          "totalAmount": 2000
+        },
+        {
+          "id": 2,
+          "name": "Insurance",
+          "totalAmount": 30
+        },
+        {
+          "id": 3,
+          "name": "Food",
+          "totalAmount": 30
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pets",
+      "outgoings": [
+        {
+          "id": 1,
+          "name": "Food",
+          "totalAmount": 2000
+        },
+        {
+          "id": 2,
+          "name": "Insurance",
+          "totalAmount": 30
+        },
+        {
+          "id": 3,
+          "name": "Töyz",
+          "totalAmount": 30
+        }
+      ]
+    }
+  ]
+}
